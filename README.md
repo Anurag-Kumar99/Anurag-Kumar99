@@ -36,7 +36,16 @@
 
 
 ---
+---
 
+<h2 align="center">📫 Connect with Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/anurag-kumar-816901292/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+  <a href="https://github.com/Anurag-Kumar99/"><img src="https://img.icons8.com/ios11/512/EBEBEB/github.png" width="48" height="48" /></a>  
+  <a href="mailto:anurag995539@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/email.png"/></a>
+  <a href="https://x.com/suraj_pathak23"><img src="https://img.icons8.com/color/48/000000/twitter.png"/></a>
+</p>
 
 
 ---
