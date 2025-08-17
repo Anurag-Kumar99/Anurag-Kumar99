@@ -1,13 +1,9 @@
 # 💫 Hi 👋, I'm Anurag Kumar  
-**A passionate Django Developer || Python Enthusiast || Web Developer from India**
-
-📧 **Email Me 👉** ✉️ **anurag995539@gmail.com** for Collaboration/Project or Anything Else. 😊😊  
-
 ---
 
 
 <h2 align="center"><img src="https://user-images.githubusercontent.com/39955420/147578199-56632b69-b3e8-4d9f-97e2-f046a1c2cba0.gif"></h2>
-
+---
 <h2 align="center">About Me <img src="https://media.giphy.com/media/3o7qDPxvynqYMeX6z6/giphy.gif" width="30"></h2>
 
 I am Anurag Kumar, a passionate Software Developer & Web Enthusiast. Currently pursuing BCA (2023–2026) with a strong interest in Backend Development (Django), DSA, and Problem Solving.
