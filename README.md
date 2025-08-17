@@ -31,21 +31,7 @@
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag-Kumar99&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>  
-![](https://github-readme-stats.vercel.app/api?username=Anurag-Kumar99&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=Anurag-Kumar99&theme=dark&hide_border=false)
 
----
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anurag-kumar-816901292/)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anurag-Kumar99)  
-
----
-
-### ✍️ Random Dev Quote  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo  
 ![](https://github-contributor-stats.vercel.app/api?username=Anurag-Kumar99&limit=5&theme=dark&combine_all_yearly_contributions=true)
