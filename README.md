@@ -1,21 +1,17 @@
 # 💫 Hi 👋, I'm Anurag Kumar  
 **A passionate Django Developer || Python Enthusiast || Web Developer from India**
 
-📧 **Email Me 👉** ✉️ **ANURAG995539@example.com** for Collaboration/Project or Anything Else. 😊😊  
+📧 **Email Me 👉** ✉️ **anurag995539@gmail.com** for Collaboration/Project or Anything Else. 😊😊  
 
 - 🔭 **I’m currently working on:** My Django Blog & E-commerce Project (My AssomeCart)  
 - 🌱 **I’m currently learning:** Data Structures & Algorithms + Advanced Django  
 - 👯 **I’m looking to collaborate on:** Django + Python Projects  
 - 🤔 **I’m looking for help with:** Frontend Designing (Bootstrap/JS)  
 - 💬 **Ask me about:** Django, Python, Web Development  
-- 📫 **How to reach me:** ANURAG995539@example.com  
+- 📫 **How to reach me:** anurag995539@gmail.com  
 - 😄 **Pronouns:** He/Him  
 - ⚡ **Fun fact:** I love solving coding problems and creating web apps 🚀  
 
----
-
-## 🏆 GitHub Trophies  
-![](https://github-profile-trophy.vercel.app/?username=Anurag-Kumar99&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
@@ -36,6 +32,15 @@
 
 
 ---
+<h2 align="center">🎯 Internship</h2>
+
+- **Xplore.co.in — AI & ML Intern**  
+  - Built and trained Machine Learning models for predictive analysis  
+  - Worked with datasets for preprocessing, feature engineering, and model evaluation  
+  - Implemented algorithms using Python libraries like Scikit-learn, Pandas, NumPy, and Matplotlib  
+  - Created data visualizations to interpret results and improve model performance  
+  - Collaborated with the team to develop AI-driven solutions for real-world problems  
+
 ---
 
 <h2 align="center">📫 Connect with Me</h2>
